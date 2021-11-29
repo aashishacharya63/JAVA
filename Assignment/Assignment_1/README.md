@@ -21,11 +21,14 @@ The Reflection API is mainly used in:
 The Java program below demonstrates the reflection on a public field.
 
 import java.lang.Class;
+
 import java.lang.reflect.*;
+
 class Student {
   public String StudentName;
 }
 class Main {
+
   public static void main(String[] args) {
      try{
          Student student = new Student();
