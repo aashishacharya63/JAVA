@@ -1,0 +1,18 @@
+.git
+ASIO4ALL v2 Instruction Manual.lnk
+ass5
+assign.TXT
+desktop.ini
+Dev-C++.lnk
+git shortcuts.TXT
+index.html
+IntelliJ IDEA Community Edition 2021.2.2.lnk
+java-2019-batch
+my c++ pdf.pdf
+prajwal - Edge.lnk
+pvt
+sam.jpg
+Spotify.lnk
+Telegram.lnk
+uTorrent Web.lnk
+~$outine.DOCX
